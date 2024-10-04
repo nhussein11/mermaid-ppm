@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg" height="150">
+<img src="https://raw.githubusercontent.com/nhussein11/ppm-mermaid/refs/heads/develop/img/PaperMoon_V1%20(1).png" height="150">
 </p>
 <h1 align="center">
 Mermaid by Papermoon
