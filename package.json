@@ -1,5 +1,5 @@
 {
-  "name": "mermaid-monorepo",
+  "name": "mermaid-monorepo-ppm",
   "private": false,
   "version": "10.2.4",
   "description": "Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.",
